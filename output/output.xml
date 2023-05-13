@@ -1,0 +1,50 @@
+<ArrayList>
+  <item>
+    <CardType>MasterCard</CardType>
+    <CardNumber>5567894523129089</CardNumber>
+  </item>
+  <item>
+    <CardType>Invalid: more than 19 digits</CardType>
+    <CardNumber>59012345678901234567890</CardNumber>
+  </item>
+  <item>
+    <CardType>Visa</CardType>
+    <CardNumber>4123456789123</CardNumber>
+  </item>
+  <item>
+    <CardType>AmericanExpress</CardType>
+    <CardNumber>347856341908126</CardNumber>
+  </item>
+  <item>
+    <CardType>Discover</CardType>
+    <CardNumber>6011111100007756</CardNumber>
+  </item>
+  <item>
+    <CardType>Invalid: not a possible card number</CardType>
+    <CardNumber>3601112345678789</CardNumber>
+  </item>
+  <item>
+    <CardType>MasterCard</CardType>
+    <CardNumber>5167894523129089</CardNumber>
+  </item>
+  <item>
+    <CardType>Visa</CardType>
+    <CardNumber>4123456789123999</CardNumber>
+  </item>
+  <item>
+    <CardType>AmericanExpress</CardType>
+    <CardNumber>377856341908126</CardNumber>
+  </item>
+  <item>
+    <CardType>MasterCard</CardType>
+    <CardNumber>5367894523129089</CardNumber>
+  </item>
+  <item>
+    <CardType>Invalid: non numeric characters</CardType>
+    <CardNumber>6011*890HJrt6789</CardNumber>
+  </item>
+  <item>
+    <CardType>Invalid: empty/null card number</CardType>
+    <CardNumber>null</CardNumber>
+  </item>
+</ArrayList>
